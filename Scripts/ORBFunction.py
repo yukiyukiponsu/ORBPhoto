@@ -1,6 +1,3 @@
-#モザイク掛け機能
-import pandas as pd
-import numpy as np
 import cv2
 Imagefile = "C://python//BlogORBPython//Image//lena.jpg"
 ######## ORB 特徴点抽出 ###################
